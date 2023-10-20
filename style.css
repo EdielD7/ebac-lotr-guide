@@ -1,0 +1,60 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #28433e;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color:#28433e;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-tolkienpedia .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #f5e8db;
+}
+
+.section-title {
+    font-family: Pacifico, cursive;
+}
+
+#sobre, #tolkienpedia {
+    background-color: #f5e8db;
+}
+
+.text-colored {
+    color: #28433e;
+}
+
+.nav-tolkienpedia .nav-link.active,
+#fale-conosco button {
+    background-color: #28433e;
+    color: #fff;
+}
+
+.nav-tolkienpedia .nav-link:hover {
+    color: #28433e;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}

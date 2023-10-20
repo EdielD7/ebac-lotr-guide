@@ -1,0 +1,18 @@
+Medidas img LOTR website
+
+sobre: 1280x848
+
+slides: 1920x760
+
+volumes: 1280x851
+
+personagens: a definir
+
+
+Color Pallete
+d9b591	bege
+785039	marrom escuro
+9d663e	marrom claro
+dabc5c	amarelo
+8a884e	verde
+28433e	verde escuro?
